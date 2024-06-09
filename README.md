@@ -1,4 +1,4 @@
-#Edad de mortalidad en México
+# Edad de mortalidad en México
 Este proyecto analiza los datos de defunción de la base de datos del 2020 obtenida de:
 http://www.dgis.salud.gob.mx/descargas/datosabiertos/excesoMortalidad/Exceso_Mortalidad_MX_2020_Historico.zip?v=2022.11.04
 
@@ -13,7 +13,7 @@ MUNICIPIO_REG: municipio
 FECHA_DEFUNCION: fecha_defuncion
 SEXO: sexo
 
-El proyecto analiza las edades de defuncíon de manera simple, los clasifica por edad y estado. 
+El proyecto analiza las edades de defunción de manera simple, los clasifica por edad y estado. 
 Cada número de estado corresponde a un estado en orden alfabético de acuerdo a la siguiente página:
 https://www.agricultura.gob.mx/sites/default/files/sagarpa/document/2018/07/17/8/180717115914/entidades-federativas.pdf
 
