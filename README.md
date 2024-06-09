@@ -13,6 +13,12 @@ MUNICIPIO_REG: municipio
 FECHA_DEFUNCION: fecha_defuncion
 SEXO: sexo
 
+Las librerias que necesarias en este proyecto son las siguientes:
+import mysql.connector
+import pandas as pd
+import matplotlib.pyplot as plt
+from tabulate import tabulate
+
 El proyecto analiza las edades de defunción de manera simple, los clasifica por edad y estado. 
 Cada número de estado corresponde a un estado en orden alfabético de acuerdo a la siguiente página:
 https://www.agricultura.gob.mx/sites/default/files/sagarpa/document/2018/07/17/8/180717115914/entidades-federativas.pdf
