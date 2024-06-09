@@ -7,7 +7,7 @@ La base de datos tiene varios comprimidos, usamos el que dice Exceso_Mortalidad_
 Cargamos el archivo csv en MySQL cambiando el nombre de las columnas de la siguiente manera:
 
 FECHA_ACTUALIZACION: fecha_actualizacion
-ID_REGISTRO: id_registro
+ID_REGISTRO: id_registro (primary key)
 ENTIDAD_REG: estado
 MUNICIPIO_REG: municipio
 FECHA_DEFUNCION: fecha_defuncion
